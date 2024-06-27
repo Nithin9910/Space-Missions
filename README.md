@@ -5,6 +5,7 @@
 Data - Over 4500 records
 
 Data Transformation - Power Query
+
 Data Visualization - Power BI
 
 ## **Summary of Findings**
